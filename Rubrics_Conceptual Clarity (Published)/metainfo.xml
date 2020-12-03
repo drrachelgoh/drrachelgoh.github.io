@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="3E5E925A-AFDC-478A-B71B-A646A810E5E9" version="0" availableOffline="1">
+<presentation guid="D1431774-65EC-4B57-87FD-836B56D377CB" version="0" availableOffline="1">
 	<info>
 		<title>Rubrics_Conceptual Clarity</title>
 		<description/>
 	</info>
-	<files index="id11" thumbnail="id34" totalSize="4442868">
+	<files index="id11" thumbnail="id34" totalSize="4131495">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/quiz1.js</file>
 		<file id="id2">data/quiz1/fonts/fnt0.woff</file>
